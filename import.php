@@ -1,6 +1,6 @@
 <?php
 /**
- * ARTIST IMPORT SCRIPT — TAB DELIMITED CSV FIXED
+ * ARTIST IMPORT SCRIPT — Comma Separated CSV FIXED
  * Run once: /?import_artists=1
  */
 add_action('init', function () {
