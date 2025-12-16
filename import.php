@@ -1,3 +1,4 @@
+<?php
 /**
  * ARTIST IMPORT SCRIPT — TAB DELIMITED CSV FIXED
  * Run once: /?import_artists=1
